@@ -1,4 +1,3 @@
-$.response.contentType = "text/html";
 try {
     var connection = $.hdb.getConnection();
     var body;
