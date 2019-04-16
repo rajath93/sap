@@ -1,5 +1,5 @@
 function test(){
-	console.log("Rajath")
+	console.log("Rajath 1 2 3")
 }
 
 test()
